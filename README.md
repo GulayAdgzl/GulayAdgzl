@@ -3,14 +3,16 @@
 
 ### Hi there,I'm Gülay. :sparkles:
 
-## Mobile Application Developer 
+## Mobile Application Developer 🫶
 
 <font color="pink">reads, writes and 'codes'</font>
 
-### Reach out to me
+<div>  
+  <a href = "mailto:glyadgzl@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/g%C3%BClay-ad%C4%B1g%C3%BCzel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
-[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/medium.svg" align="left"/>][medium]
-[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left"/>][linkedin]
 
-<br/>
+
 <br/>
