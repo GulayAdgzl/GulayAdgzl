@@ -32,7 +32,3 @@ Ada Lovelace
   <br>
   </br>
 
-
-
-![snake gif](httpas://github.com/GulayAdgzl/GulayAdgzl/blob/output/github-contribution-grid-snake.svg)
-
