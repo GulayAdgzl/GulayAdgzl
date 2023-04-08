@@ -12,18 +12,17 @@ Ada Lovelace
 <div>
   <img align ="left" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width="25" height="25">  
   <img align ="left" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/dart/dart.png" width="25" height="25">
-   <img align ="left" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/kotlin/kotlin.png" width="25" height="25"
-     <img align ="right" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
-
-
+   <img align ="left" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/kotlin/kotlin.png" width="25" height="25">
+    <img align ="right" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 
 <br></br>
+
 <div>
   <a href="https://beacons.ai/GulayAdgzl">
     <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=GulayAdgzl&show_icons=true&theme=dracula&include_all-commits=true&count_private=true"/>
     <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GulayAdgzl&layout=compact&langs_count=16&theme=darcula"/>
   
-    </div>
+ </div>
   <br></br>
 
 <div>  
