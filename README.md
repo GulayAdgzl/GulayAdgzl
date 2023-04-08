@@ -5,7 +5,15 @@
 
 ## Mobile Application Developer 🫶
 
-<font color="pink">reads, writes and 'codes'</font>
+<font color="pink">'My brain is way ahead of a mortal's, you'll understand in time'</font>
+Ada Lovelace
+<br></br>
+### Tech I Use
+
+<img align ="left" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width="25" height="25">
+<img align ="left" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/dart/dart.png" width="25" height="25">
+<img align ="left" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/kotlin/kotlin.png" width="25" height="25">
+
 <br></br>
 <div>
   <a href="https://beacons.ai/GulayAdgzl">
@@ -17,6 +25,7 @@
 <div>  
   <a href = "mailto:glyadgzl@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/g%C3%BClay-ad%C4%B1g%C3%BCzel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <img align ="right" src="https://cdn.discordapp.com/attachments/795358919417397249/82543058958168872/hi.gif">
   
 </div>
 
