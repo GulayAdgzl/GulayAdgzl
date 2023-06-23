@@ -3,7 +3,7 @@
 
 ### Hi there,I'm Gülay. :sparkles:
 
-## Mobile Application Developer 🫶
+## Mobile Application Developer 😎
 
 <font color="pink">'My brain is way ahead of a mortal's, you'll understand in time'</font>
 Ada Lovelace
