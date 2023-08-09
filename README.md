@@ -19,8 +19,7 @@ Ada Lovelace
 
 <div>
   <a href="https://beacons.ai/GulayAdgzl">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=GulayAdgzl&show_icons=true&theme=dracula&include_all-commits=true&count_private=true"/>
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GulayAdgzl&layout=compact&langs_count=16&theme=darcula"/>
+    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GulayAdgzl&layout=compact&langs_count=16&theme=dracula"/>
   
  </div>
   <br></br>
