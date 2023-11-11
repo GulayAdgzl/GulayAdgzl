@@ -27,7 +27,10 @@ Ada Lovelace
 <div> 
   <a href = "mailto:glyadgzl@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/g%C3%BClay-ad%C4%B1g%C3%BCzel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
-    </div>
+    <a href="https://medium.com/@glyadgzl" target="_blank"><img src="https://img.shields.io/badge/-Medium-%230077B5?style=for-the-badge&logo=medium&logoColor=white" target="_blank"/>
+</a>
+
+</div>
   <br>
   </br>
 
